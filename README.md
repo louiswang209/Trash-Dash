@@ -6,3 +6,5 @@ Instructions on how to launch this project:
 3. Change project platform to Android in build settings.
 4. Connect the project to an Android device or emulator.
 5. Build and run the game.
+
+Test cases PDF can be found in the main folder below README file.
